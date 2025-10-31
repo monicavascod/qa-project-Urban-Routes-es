@@ -50,10 +50,10 @@ source .venv/bin/activate
 Windows (PowerShell):
 .venv\Scripts\Activate.ps1
 
-3. Instalar dependencias:
+3. Instalar dependencias:  
 pip install -r requirements.txt
 
-4. Ejecutar las pruebas:
+4. Ejecutar las pruebas:  
 pytest main.py
        
 ---
