@@ -39,10 +39,10 @@ El archivo `main.py` contiene la clase `TestUrbanRoutes` con los siguientes mét
 
 ## 🚀 Cómo Ejecutar las Pruebas
 
-**1** Crear un entorno virtual
+1. Crear un entorno virtual
 python -m venv .venv
 
-**2** Activar el entorno virtual
+2. Activar el entorno virtual
 
 macOS / Linux:
 source .venv/bin/activate
@@ -50,10 +50,10 @@ source .venv/bin/activate
 Windows (PowerShell):
 .venv\Scripts\Activate.ps1
 
-**3** Instalar dependencias:
+3. Instalar dependencias:
 pip install -r requirements.txt
 
-**4** Ejecutar las pruebas:
+4. Ejecutar las pruebas:
 pytest main.py
        
 ---
